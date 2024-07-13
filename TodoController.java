@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+//Controller class which acts as a API REST endpoint// 
 @RestController
 @RequestMapping(value = "/todo")
 public class TodoController {
